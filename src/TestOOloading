@@ -1,0 +1,16 @@
+class A {
+    def x
+    def plus(a) {
+        x += a.x
+    }
+
+}
+
+def a = new A();
+a.x = 10;
+
+def b = new A();
+b.x=11
+
+def c = a + b;
+println a.x
