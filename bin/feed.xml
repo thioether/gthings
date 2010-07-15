@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://www.infoq.com">
+    <title>InfoQ Personalized Feed for Ravindra Rawat</title>
+    <link>http://www.infoq.com</link>
+    <description>This RSS feed is a personalized feed, unique to your account (registered or unregistered) on InfoQ.com.  On InfoQ you can select which communities you are interested in using the 'Your Communities' box on the left side bar, and you can even turn off any content matching sub-topics or tags. The results of those selections will reflect in what news you see in this RSS feed - it should match whatever you see in the 'news' center panel on InfoQ. If you are NOT seeing this correlation then you may not be using a feed URL associated with your InfoQ account. For best accuracy, register to InfoQ and then grab a new RSS feed url from the 'Personal Feed' link on the left side menu. Enjoy!</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="http://www.infoq.com/articles/klein-grailsquickstartguide" />
+        <rdf:li resource="http://www.infoq.com/interviews/thorup-erjang" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/Points-of-View-Alan-Kay" />
+        <rdf:li resource="http://www.infoq.com/presentations/Towards-a-Universal-VM" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/egit-helios" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/c2-military-gets-agile" />
+        <rdf:li resource="http://www.infoq.com/articles/lambdas-java-analysis" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/lambda-syntax-debate" />
+        <rdf:li resource="http://www.infoq.com/articles/5-config-mgmt-best-practices" />
+        <rdf:li resource="http://www.infoq.com/presentations/The-Limited-Red-Society" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/SOAMysteries" />
+        <rdf:li resource="http://www.infoq.com/news/2010/06/restful-jruby-jersey" />
+        <rdf:li resource="http://www.infoq.com/articles/state-of-jruby" />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.infoq.com/articles/klein-grailsquickstartguide">
+    <title>Article:Interview and Book Excerpt: Dave Klein's Grails A Quick-Start Guide</title>
+    <link>http://www.infoq.com/articles/klein-grailsquickstartguide</link>
+    <description>In this book review of Grails A Quick-Start Guide, InfoQ spoke with author Dave Klein about the best practices when using Grails for web application development, Meta Object Protocol (MOP) feature in Groovy, and tool support for developing web applications using Grails framework.&#xD;
+ &lt;i&gt;By Srini Penchikala&lt;/i&gt;</description>
+    <dc:creator>Srini Penchikala</dc:creator>
+    <dc:date>2010-06-05T03:00:00Z</dc:date>
+    <dc:identifier>/articles/klein-grailsquickstartguide</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/interviews/thorup-erjang">
+    <title>Interview:Kresten Krab Thorup on Erjang, JVM Languages, Kilim</title>
+    <link>http://www.infoq.com/interviews/thorup-erjang</link>
+    <description>Kresten Krab Thorup talks about the Erjang project and explains the challenges of bringing Erlang to the JVM, using Kilim for lightweight processes, the implementation of tail recursion and much more. &lt;i&gt;By Kresten Krab Thorup&lt;/i&gt;</description>
+    <dc:creator>Kresten Krab Thorup</dc:creator>
+    <dc:date>2010-06-04T14:18:00Z</dc:date>
+    <dc:identifier>/interviews/thorup-erjang</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/Points-of-View-Alan-Kay">
+    <title>Book: Points of View - a Tribute to Alan Kay</title>
+    <link>http://www.infoq.com/news/2010/06/Points-of-View-Alan-Kay</link>
+    <description>Edited by Ian Piumarta, a Senior Scientist for Viewpoints Research Institute, and Kimberly Rose, co-founder of the Viewpoints Research Institute, the book “Points of View - a Tribute to Alan Kay” (PDF) is a homage paid to Dr. Alan Kay for his great contribution for the advance of computer science, celebrating his 70th birthday on May 17th.  &lt;i&gt;By Abel Avram&lt;/i&gt;</description>
+    <dc:creator>Abel Avram</dc:creator>
+    <dc:date>2010-06-04T12:32:00Z</dc:date>
+    <dc:identifier>/news/2010/06/Points-of-View-Alan-Kay</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/presentations/Towards-a-Universal-VM">
+    <title>Presentation:Towards a Universal VM</title>
+    <link>http://www.infoq.com/presentations/Towards-a-Universal-VM</link>
+    <description>Alex Buckley presents some of the challenges for JVM to become a universal virtual machine, serving the needs of Java and non-Java languages, being useful both to statically and dynamically-typed languages, and supporting an ever growing number of languages and their features targeting the platform. &lt;i&gt;By Alex Buckley&lt;/i&gt;</description>
+    <dc:creator>Alex Buckley</dc:creator>
+    <dc:date>2010-06-04T12:30:00Z</dc:date>
+    <dc:identifier>/presentations/Towards-a-Universal-VM</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/egit-helios">
+    <title>EGit 0.8 Ready For Helios Release</title>
+    <link>http://www.infoq.com/news/2010/06/egit-helios</link>
+    <description>The EGit and JGit Eclipse projects released 0.8.1 of their namesake projects earlier this week, in preparation for the Eclipse Helios simultaneous release that is due later this month. The New and Noteworthy for both EGit and JGit have been brought up to date, and a User Guide based on contributions from the Eclipse Wiki. There's also an Introduction to Git for those who haven't used it before. &lt;i&gt;By Alex Blewitt&lt;/i&gt;</description>
+    <dc:creator>Alex Blewitt</dc:creator>
+    <dc:date>2010-06-04T09:00:00Z</dc:date>
+    <dc:identifier>/news/2010/06/egit-helios</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/c2-military-gets-agile">
+    <title>The "Command and Control" Military Gets Agile</title>
+    <link>http://www.infoq.com/news/2010/06/c2-military-gets-agile</link>
+    <description>Agility is a term that is gaining traction in some very unusual places. The military is suddenly taking Agility very seriously. The military defines Agility as "the ability to successfully respond to change". The term "command and control" is used so commonly in the military that is abbreviated to "C2" in common usage. There is also a C2 Journal, which has had many articles on Agility recently. &lt;i&gt;By Dan Mezick&lt;/i&gt;</description>
+    <dc:creator>Dan Mezick</dc:creator>
+    <dc:date>2010-06-04T00:50:00Z</dc:date>
+    <dc:identifier>/news/2010/06/c2-military-gets-agile</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/articles/lambdas-java-analysis">
+    <title>Article:Lambdas in Java: An In-Depth Analysis</title>
+    <link>http://www.infoq.com/articles/lambdas-java-analysis</link>
+    <description>Although languages like Python  and Ruby  have had lambdas for a long time, the recent popularity of JVM-based languages (notably Groovy and Scala) have rekindled demand for lambdas in Java as well. But what is a lambda and what is the proposed syntax for adding lambdas to the Java language? This article explores both of these questions in depth. &lt;i&gt;By Alex Blewitt&lt;/i&gt;</description>
+    <dc:creator>Alex Blewitt</dc:creator>
+    <dc:date>2010-06-03T21:00:00Z</dc:date>
+    <dc:identifier>/articles/lambdas-java-analysis</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/lambda-syntax-debate">
+    <title>First Version of Java Lambda Syntax Sparks Debate</title>
+    <link>http://www.infoq.com/news/2010/06/lambda-syntax-debate</link>
+    <description>A few days ago Maurizio Cimadamore from Oracle pushed the initial lambda implementation in the OpenJDK Mercurial Repositories. This provided a first glimpse into the new syntax and has created controversy in the community. &lt;i&gt;By Dionysios G. Synodinos&lt;/i&gt;</description>
+    <dc:creator>Dionysios G. Synodinos</dc:creator>
+    <dc:date>2010-06-03T21:00:00Z</dc:date>
+    <dc:identifier>/news/2010/06/lambda-syntax-debate</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/articles/5-config-mgmt-best-practices">
+    <title>Article:5 Configuration Management Best Practices</title>
+    <link>http://www.infoq.com/articles/5-config-mgmt-best-practices</link>
+    <description>There has been a lot of conversation going on around the configuration of applications, and how to manage it. This article explores things people can do from within their code to make their lives, and the lives of anyone else who has to administer or maintain their application, easier. These patterns have been used a number of times on ThoughtWorks projects, and they have proven their worth. &lt;i&gt;By Chris Read&lt;/i&gt;</description>
+    <dc:creator>Chris Read</dc:creator>
+    <dc:date>2010-06-03T13:45:00Z</dc:date>
+    <dc:identifier>/articles/5-config-mgmt-best-practices</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/presentations/The-Limited-Red-Society">
+    <title>Presentation:The Limited Red Society</title>
+    <link>http://www.infoq.com/presentations/The-Limited-Red-Society</link>
+    <description>Joshua Kerievsky discusses the need to reduce “red” periods of time while developing software. One is in the red when he spends too much time designing, or having compilation errors or the tests do not pass. Kerievsky demonstrates a method (Parallel Change) of reducing the red while refactoring code, and discusses another approach called Narrowed Change, and answers refactoring related questions. &lt;i&gt;By Joshua Kerievsky&lt;/i&gt;</description>
+    <dc:creator>Joshua Kerievsky</dc:creator>
+    <dc:date>2010-06-03T10:30:00Z</dc:date>
+    <dc:identifier>/presentations/The-Limited-Red-Society</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/SOAMysteries">
+    <title>Unsolved SOA Mysteries</title>
+    <link>http://www.infoq.com/news/2010/06/SOAMysteries</link>
+    <description>In his new post, eBIZQ’s Joe McKendrick discusses some of the mysteries surrounding SOA: the difference between SOA and cloud computing, how can SOA fail when nobody really has fully implemented it, how to measure SOA success, and others. &lt;i&gt;By Boris Lublinsky&lt;/i&gt;</description>
+    <dc:creator>Boris Lublinsky</dc:creator>
+    <dc:date>2010-06-03T01:49:00Z</dc:date>
+    <dc:identifier>/news/2010/06/SOAMysteries</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/news/2010/06/restful-jruby-jersey">
+    <title>Restful Services in Ruby using JRuby and Jersey</title>
+    <link>http://www.infoq.com/news/2010/06/restful-jruby-jersey</link>
+    <description>In an effort to bring the expressiveness of ruby and the REST frameworks in Java, Charles Nutter makes the case for delevoping RESTful services in JRuby+Rails.  &lt;i&gt;By Dilip Krishnan&lt;/i&gt;</description>
+    <dc:creator>Dilip Krishnan</dc:creator>
+    <dc:date>2010-06-02T23:26:00Z</dc:date>
+    <dc:identifier>/news/2010/06/restful-jruby-jersey</dc:identifier>
+  </item>
+  <item rdf:about="http://www.infoq.com/articles/state-of-jruby">
+    <title>Article:The State of JRuby: 1.5, AOT, Java 7</title>
+    <link>http://www.infoq.com/articles/state-of-jruby</link>
+    <description>InfoQ caught up with Charles Nutter to talk about the state of JRuby: the 1.5 release, Ahead of Time compilation, and what's coming up in 1.6 and with features in Java 7.  &lt;i&gt;By Werner Schuster&lt;/i&gt;</description>
+    <dc:creator>Werner Schuster</dc:creator>
+    <dc:date>2010-06-02T18:06:00Z</dc:date>
+    <dc:identifier>/articles/state-of-jruby</dc:identifier>
+  </item>
+</rdf:RDF>
+
